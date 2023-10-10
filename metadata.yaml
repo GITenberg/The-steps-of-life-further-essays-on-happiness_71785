@@ -1,0 +1,56 @@
+_repo: The-steps-of-life-further-essays-on-happiness_71785
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Peabody, Francis Greenwood
+    birthdate: 1847
+    deathdate: 1936
+    gutenberg_agent_id: '26436'
+    url: http://www.gutenberg.org/2009/agents/26436
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Greenwood_Peabody
+  translator:
+    agent_name: Brandow, Melvin
+    birthdate: 1863
+    gutenberg_agent_id: '56398'
+    url: http://www.gutenberg.org/2009/agents/56398
+creator:
+  author:
+    agent_name: Hilty, Karl
+    aliases:
+    - Hilty, Carl
+    - Hilty, C. (Carl)
+    - Hilty, Charles
+    birthdate: 1833
+    deathdate: 1909
+    gutenberg_agent_id: '54958'
+    url: http://www.gutenberg.org/2009/agents/54958
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Carl_Hilty
+    - https://en.wikipedia.org/wiki/Carl_Hilty
+description: ''
+gutenberg_issued: '2023-10-03'
+identifiers:
+  gutenberg: '71785'
+  lccn: 07006159
+language: en
+pgterms:marc904: https://archive.org/details/stepsoflifefurth00hiltrich
+pgterms:marc905: 20210924072113hilty
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Tim Lindell, Turgut Dincer, David E. Brown, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe MacMillan Co., $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcsh 'Happiness'
+- !lcc 'BJ'
+- GITenberg
+tableOfContents: Sin and sorrow -- "Comfort ye my people" -- On the knowledge of men
+  -- What is culture? -- Noble souls -- Transcendental hope -- The prolegomena of
+  Christianity -- The steps of life.
+title: 'The steps of life: further essays on happiness'
+url: http://www.gutenberg.org/ebooks/71785
