@@ -13,6 +13,9 @@ contributor:
     birthdate: 1863
     gutenberg_agent_id: '56398'
     url: http://www.gutenberg.org/2009/agents/56398
+covers:
+- cover_type: archival
+  image_path: 71785-h/images/cover.jpg
 creator:
   author:
     agent_name: Hilty, Karl
@@ -28,6 +31,8 @@ creator:
     - https://de.wikipedia.org/wiki/Carl_Hilty
     - https://en.wikipedia.org/wiki/Carl_Hilty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71785#The-steps-of-life-further-essays-on-happiness
 gutenberg_issued: '2023-10-03'
 identifiers:
   gutenberg: '71785'
